@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/archit-bhatnagar/archit-bhatnagar.github.io.git
+	branch = master
