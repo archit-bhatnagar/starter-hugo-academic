@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: DeepBlink
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+    company_logo: d b
+    location: USA (Remote)
+    date_start: '2021-07-01'
+    date_end: '2021-09-01'
+    description: Worked on the posture matching score for an AI‑based fitness and Yoga app able to track upto 42 different Yoga asanas
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: CSIR-CEERI
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ceeri
+    location: Chennai,India (Remote)
+    date_start: '2016-05-01'
+    date_end: '2020-07-01'
+    description: Worked on Texture Classification using Local Binary Patterns(usng ML Classifiers) & Deep Learning
 
 design:
   columns: '2'

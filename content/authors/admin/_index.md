@@ -28,7 +28,7 @@ education:
   courses:
   - course: B.E. in Computer Science 2019 - 2023(Expected)
     institution: BITS Pilani, Pilani Campus
-    year: 2023
+    # year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
