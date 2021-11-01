@@ -5,7 +5,7 @@
 
 title: Academic # Website name
 baseurl: 'https://archit-bhatnagar.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Archit Bhatnagar' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
