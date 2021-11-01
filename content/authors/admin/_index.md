@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Archit Bhatnagar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Pre Final year CS Undergrad at BITS Pilani
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Birla Institute of Technology and Science,Pilani
+  url: https://www.bits-pilani.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Deep Learning,Computer Vision,Pattern Recogonition & Image Processing
 
 # Interests to show in About widget
 interests:
