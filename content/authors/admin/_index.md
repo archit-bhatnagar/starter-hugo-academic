@@ -18,22 +18,17 @@ bio: My research interests include Deep Learning,Computer Vision,Pattern Recogon
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Computer Vision
+- Pattern Recogonition
+- Natural Language Processing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.E. in Computer Science 2019 - 2023(Expected)
+    institution: BITS Pilani, Pilani Campus
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,25 +38,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/archit-bhatnagar-bb8b74143/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/architbhatnag13
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +63,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a pre-final year undergraduate student at the Computer Science Department at BITS Pilani, Pilani Campus, deeply interested in Deep Learning. I am also exploring new areas related to Computer Vision and further aim to enhance my knowledge in field of 3D pose Estimation and Classification.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently affiliated to AI/ML Lab BITS,Pilani under the supervision of Prof. Kamlesh Tiwari working on the project "3D Yoga Pose Classification using JADMs".During summer I interned under MR Sanstosh Yadav and built the ML segment(Pose Matching score algorithms) of an AI based fitness mobile application-<b>YOGI-G</b>.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
