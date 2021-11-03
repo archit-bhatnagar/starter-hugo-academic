@@ -17,17 +17,25 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: c
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: C/C++
+- description: 80%
+  icon: Tensorflow_logo
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: TensorFlow
+- description: 70%
+  icon: deep-learning
   icon_pack: fas
-  name: Photography
+  name: Deep Learning
+- description: 70%
+  icon: opencv-icon
+  icon_pack: fas
+  name: Open-CV
+- description: 60%
+  icon: python
+  icon_pack: fas
+  name: Python
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
