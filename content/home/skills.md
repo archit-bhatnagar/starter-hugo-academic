@@ -36,7 +36,10 @@ feature:
   icon: python
   icon_pack: custom
   name: Python
-
+- description: 50%
+  icon: matlab
+  icon_pack: custom
+  name: MATLAB
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
