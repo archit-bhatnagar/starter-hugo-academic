@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Archit Bhatnagar # Website name
 baseurl: 'https://archit-bhatnagar.github.io/' # Website URL
 copyright: '© 2021 Archit Bhatnagar' # Footer text, e.g. '© {year} Me'
 
