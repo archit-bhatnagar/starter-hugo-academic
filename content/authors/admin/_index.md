@@ -65,6 +65,6 @@ highlight_name: true
 
 I am a pre-final year undergraduate student at the Computer Science Department at BITS Pilani, Pilani Campus, deeply interested in Deep Learning. I am also exploring new areas related to Computer Vision and further aim to enhance my knowledge in field of 3D pose Estimation and Classification.
 
-I am currently affiliated to AI/ML Lab BITS,Pilani under the supervision of Prof. Kamlesh Tiwari working on the project "3D Yoga Pose Classification using JADMs".During summer I interned under MR Sanstosh Yadav and built the ML segment(Pose Matching score algorithms) of an AI based fitness mobile application-<b>YOGI-G</b>.
+I am currently affiliated to AI/ML Lab BITS,Pilani under the supervision of <a href="https://www.bits-pilani.ac.in/pilani/kamleshtiwari/profile">Dr. Kamlesh Tiwari</a> working on the project "3D Yoga Pose Classification using JADMs ".During summer I interned under Mr. Sanstosh Yadav and built the ML segment(Pose Matching score algorithms) of an AI based fitness mobile application-<b>YOGI-G</b>.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

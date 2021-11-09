@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: ceeri
     location: Chennai,India (Remote)
-    date_start: '2020-05-01'
-    date_end: '2020-07-01'
+    date_start: '2021-05-01'
+    date_end: '2021-07-01'
     description: Worked on Texture Classification using Local Binary Patterns(usng ML Classifiers) & Deep Learning
 
 design:
