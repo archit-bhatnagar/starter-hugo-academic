@@ -1,5 +1,5 @@
 ---
-title: Texture Classification using Local Binary Patterns and Deep Learning
+title: Yogi-G
 summary: • Worked on Texture Classification using both ML(manual Feature Vector generation) and Deep Learning models).Implemented Local Binary Patterns(CLBP & MRELBP) using Tensorflow using KNN, SVM & Logistic Regression classifiers.Utilized Transfer learning for Bilinear CNN’s & AlexNet models on texture datasets ‐ classification accuracy b/w 90‐97%.
 tags:
 - Deep Learning
