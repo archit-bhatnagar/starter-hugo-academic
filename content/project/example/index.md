@@ -31,5 +31,6 @@ Slides (optional).
   Otherwise, set `slides = ""`.
 slides: example
 ---
+Coming Soon
 
 ---
